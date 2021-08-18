@@ -1,0 +1,26 @@
+/* import font from google  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* utilities */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background: #264653;
+}
+p{
+    font-size: 14px;
+}
+img{
+    width: 100%;
+}
+.cbr-bg{
+    background: #E76F51;
+}
+.cbr-text{
+    color: #E76F51;
+}
+footer{
+    background: #0B0D17;
+    color: white;
+}
